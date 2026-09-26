@@ -328,14 +328,6 @@ Based on AAPL stock data (2020-2026):
 - [ ] Cryptocurrency support
 - [ ] Options pricing models
 
-## ⚠️ Disclaimer
 
-**This application is for educational and informational purposes only. It is not financial advice.**
-
-- Stock predictions are based on historical data and machine learning models
-- Past performance does not guarantee future results
-- Always do your own research before making investment decisions
-- Consult with a qualified financial advisor for investment advice
-- The developers are not responsible for any financial losses
 
 
