@@ -1,4 +1,4 @@
-# 📈 StockSense AI
+# 📈 Stock PricePrediction : AIML   powered price forecasting platform
 
 An AI-powered stock price prediction platform that leverages multiple machine learning models to provide comprehensive market analysis and predictions.
 
@@ -281,21 +281,6 @@ Based on AAPL stock data (2020-2026):
 | XGBoost | 1.6 | 2.1 | Gradient Boosting |
 | LSTM | 1.4 | 1.9 | Deep Learning |
 
-*Lower values indicate better performance*
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -327,21 +312,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Time series forecasting methodologies
 - Sentiment analysis in financial markets
 
-### Special Thanks
-- The open-source community for amazing tools and libraries
-- Contributors and testers
-- Stack Overflow community for troubleshooting help
 
-## 👨‍💻 Author
 
-**Kushagra Bhardwaj**
-- GitHub: [@Kush05Bhardwaj](https://github.com/Kush05Bhardwaj)
-- Repository: [Stocksense-AI](https://github.com/Kush05Bhardwaj/Stocksense-AI)
 
-## 📞 Support
-
-For support, questions, or feedback:
-- Open an issue on GitHub
 
 ## 🔮 Future Enhancements
 
@@ -365,6 +338,4 @@ For support, questions, or feedback:
 - Consult with a qualified financial advisor for investment advice
 - The developers are not responsible for any financial losses
 
----
 
-*If you find this project helpful, please give it a ⭐ on GitHub!*
